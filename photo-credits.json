@@ -143,16 +143,16 @@
     "context": "https://zemaljskimuzej.ba/bs/arheologija/srednji-vijek/zgo%C5%A1%C4%87anski-sljemenjak"
   },
   {
-    "id": "kocerin-contrast",
-    "file": "Kočerinska ploča.jpg (pixel-only contrast viewing copy)",
-    "image": "assets/photos/kocerin-contrast.png",
-    "name": "Kočerinska ploča · high-contrast viewing copy",
-    "kind": "Documentary contrast adjustment · original photograph preserved alongside",
-    "place": "Kočerin, Bosnia and Herzegovina",
-    "note": "Grayscale, levels, contrast and mild sharpening only; same 445×635 frame. No inscription letters have been reconstructed. Derived from the public-domain Commons photograph.",
-    "author": "Original image author unknown (medieval object photograph)",
-    "license": "Public domain original; pixel-only contrast adjustment",
-    "commons": "https://commons.wikimedia.org/wiki/File:Ko%C4%8Derinska_plo%C4%8Da.jpg",
-    "context": "https://www.godisnjak.anubih.ba/index.php/godisnjak/bs_Latn/article/view/47"
+    "id": "bosniaReliefMap",
+    "file": "Bosnia and Herzegovina relief location map.png",
+    "image": "assets/maps/bosnia-herzegovina-relief-location-map.png",
+    "name": "Relief map of Bosnia and Herzegovina and neighboring regions with UNESCO site pins",
+    "kind": "Map background with coordinate overlay",
+    "place": "Regional map bounds 15.5°–19.9° E, 42.4°–45.4° N",
+    "note": "Background by DzWiki and NordNordWest; modified by adding 28 UNESCO component-site pins at coordinates published by UNESCO. Background is CC BY-SA 3.0; the adapted composite is distributed under CC BY-SA 3.0.",
+    "author": "DzWiki and NordNordWest",
+    "license": "CC BY-SA 3.0",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_relief_location_map.png",
+    "context": "https://whc.unesco.org/en/list/1504/maps/"
   }
 ]
