@@ -1,0 +1,37 @@
+{
+  "id": "stone-sleeper",
+  "name": "Stone Sleeper",
+  "version": "0.1.0",
+  "description": "Explore documented stećci and compose a source-aware 2D stone design with historically grounded motifs.",
+  "entry": "index.jsx",
+  "icon": "icon.png",
+  "offline_capable": false,
+  "permissions": {},
+  "source_files": [],
+  "static_assets": {
+    "assets/photos/crljivica.jpg": "photos/crljivica.jpg",
+    "assets/photos/belgrade.jpg": "photos/belgrade.jpg",
+    "assets/photos/dugopolje.jpg": "photos/dugopolje.jpg",
+    "assets/photos/koposici.jpg": "photos/koposici.jpg",
+    "assets/photos/radimlja.jpg": "photos/radimlja.jpg",
+    "assets/photos/mramorje.jpg": "photos/mramorje.jpg",
+    "assets/photos/zgosca.jpg": "photos/zgosca.jpg",
+    "assets/photos/radimlja-stone.jpg": "photos/radimlja-stone.jpg",
+    "assets/photos/kocerin.jpg": "photos/kocerin.jpg",
+    "assets/maps/stecci-region.svg": "maps/stecci-region.svg",
+    "assets/photos/zgosca-original.jpg": "photos/zgosca-original.jpg",
+    "assets/photos/zgosca-museum-detail.jpg": "photos/zgosca-museum-detail.jpg",
+    "assets/photos/dugopolje-2.jpg": "photos/dugopolje-2.jpg"
+  },
+  "store": {
+    "tagline": "Explore real stećci, read inscriptions and design a stone of your own.",
+    "description": "A source-linked introduction to medieval stećci: explore their regional distribution, real photographs, necropolis records, and historically cautious notes on belief, motifs and stoneworking. The Kočerinska entry pairs the real inscribed stone with a Latin-script transcription, modern-language renderings and translations. In the design studio, compose a 2D stećak from scalable, AI-assisted interpretive motif drawings, write and place an inscription, choose artificial ageing, and download your named design as SVG. Upload or draw motifs; simple image cutout is local threshold-based processing, not AI recognition. Optional community submissions are visible to users of this Möbius instance. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
+    "screenshots": [
+      {
+        "src": "static/store/stone-sleeper-intro.png",
+        "alt": "Introduction screen with overview and credited photographs of the Zgošća stećak, Dugo Polje at Blidinje and Radimlja.",
+        "label": "Explore the stones"
+      }
+    ]
+  }
+}
