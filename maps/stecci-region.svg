@@ -1,33 +1,295 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1063 1014" role="img" aria-labelledby="title desc">
-<title id="title">UNESCO-listed stećak necropolises on a relief map of Bosnia and Herzegovina and neighboring regions</title>
-<desc id="desc">Relief background by DzWiki and NordNordWest, CC BY-SA 3.0. Red pins are the 28 UNESCO component necropolises, plotted from UNESCO-published coordinates.</desc>
-
-<g><line x1="585.63" y1="780.03" x2="585.63" y2="764.53" stroke="#5e5548" stroke-width="1.4" opacity=".78"/><rect x="516.8" y="739.5" width="137.6" height="25.0" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1"/><text x="524.8" y="756.5" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600"><tspan x="524.8" dy="0">Radimlja, Stolac</tspan></text><circle cx="585.63" cy="780.03" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="585.63" y="780.03" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">1</text><title>Radimlja, Stolac — UNESCO component site; 43.09221° N, 17.92405° E</title></g>
-<g><circle cx="633.37" cy="643.33" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="633.37" y="643.33" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">2</text><title>Grčka glavica, Biskup — UNESCO component site; 43.49667° N, 18.12167° E</title></g>
-<g><circle cx="651.44" cy="705.34" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="651.44" y="705.34" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">3</text><title>Kalufi, Krekovi — UNESCO component site; 43.31319° N, 18.19647° E</title></g>
-<g><circle cx="817.65" cy="528.31" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="817.65" y="528.31" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">4</text><title>Borak, Burati — UNESCO component site; 43.83694° N, 18.88446° E</title></g>
-<g><line x1="525.46" y1="456.11" x2="525.46" y2="456.11" stroke="#5e5548" stroke-width="1.4" opacity=".78"/><rect x="518.9" y="443.6" width="69.2" height="25.0" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1"/><text x="526.9" y="460.6" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600"><tspan x="526.9" dy="0">Maculje</tspan></text><circle cx="525.46" cy="456.11" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="525.46" y="456.11" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">5</text><title>Maculje — UNESCO component site; 44.05056° N, 17.67500° E</title></g>
-<g><line x1="493.58" y1="587.03" x2="493.58" y2="587.03" stroke="#5e5548" stroke-width="1.4" opacity=".78"/><rect x="437.6" y="574.5" width="168.0" height="25.0" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1"/><text x="445.6" y="591.5" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600"><tspan x="445.6" dy="0">Dugo polje, Blidinje</tspan></text><circle cx="493.58" cy="587.03" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="493.58" y="587.03" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">6</text><title>Dugo polje, Blidinje — UNESCO component site; 43.66322° N, 17.54306° E</title></g>
-<g><circle cx="709.87" cy="622.71" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="709.87" y="622.71" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">7</text><title>Gvozno — UNESCO component site; 43.55767° N, 18.43833° E</title></g>
-<g><circle cx="716.18" cy="843.45" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="716.18" y="843.45" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">8</text><title>Grebnice, Baljci — UNESCO component site; 42.90458° N, 18.46444° E</title></g>
-<g><circle cx="505.80" cy="767.55" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="505.80" y="767.55" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">9</text><title>Bijača — UNESCO component site; 43.12914° N, 17.59361° E</title></g>
-<g><circle cx="760.47" cy="375.93" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="760.47" y="375.93" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">10</text><title>Olovci — UNESCO component site; 44.28778° N, 18.64778° E</title></g>
-<g><circle cx="729.81" cy="436.96" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="729.81" y="436.96" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">11</text><title>Mramor, Musići — UNESCO component site; 44.10722° N, 18.52083° E</title></g>
-<g><circle cx="787.45" cy="580.49" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="787.45" y="580.49" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">12</text><title>Kučarin, Hrančići — UNESCO component site; 43.68258° N, 18.75944° E</title></g>
-<g><line x1="573.74" y1="801.78" x2="573.74" y2="803.28" stroke="#5e5548" stroke-width="1.4" opacity=".78"/><rect x="563.4" y="803.3" width="69.2" height="25.0" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1"/><text x="571.4" y="820.3" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600"><tspan x="571.4" dy="0">Boljuni</tspan></text><circle cx="573.74" cy="801.78" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="573.74" y="801.78" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">13</text><title>Boljuni — UNESCO component site; 43.02788° N, 17.87482° E</title></g>
-<g><circle cx="661.24" cy="589.76" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="661.24" y="589.76" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">14</text><title>Dolovi, Umoljani — UNESCO component site; 43.65514° N, 18.23701° E</title></g>
-<g><circle cx="807.61" cy="487.44" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="807.61" y="487.44" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">15</text><title>Luburića polje — UNESCO component site; 43.95787° N, 18.84290° E</title></g>
-<g><circle cx="635.13" cy="774.03" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="635.13" y="774.03" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">16</text><title>Potkuk, Bitunja — UNESCO component site; 43.10996° N, 18.12896° E</title></g>
-<g><circle cx="808.11" cy="362.40" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="808.11" y="362.40" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">17</text><title>Bečani — UNESCO component site; 44.32780° N, 18.84494° E</title></g>
-<g><circle cx="831.81" cy="679.29" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="831.81" y="679.29" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">18</text><title>Mramor, Vrbica — UNESCO component site; 43.39028° N, 18.94305° E</title></g>
-<g><circle cx="701.10" cy="668.97" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="701.10" y="668.97" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">19</text><title>Čengića Bara — UNESCO component site; 43.42079° N, 18.40201° E</title></g>
-<g><circle cx="437.92" cy="519.40" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="437.92" y="519.40" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">20</text><title>Ravanjska vrata — UNESCO component site; 43.86331° N, 17.31266° E</title></g>
-<g><circle cx="344.80" cy="637.01" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="344.80" y="637.01" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">21</text><title>Velika and Mala Crljivica — UNESCO component site; 43.51536° N, 16.92719° E</title></g>
-<g><circle cx="706.02" cy="966.08" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="706.02" y="966.08" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">22</text><title>St. Barbara, Dubravka — UNESCO component site; 42.54178° N, 18.42238° E</title></g>
-<g><circle cx="881.61" cy="779.15" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="881.61" y="779.15" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">23</text><title>Grčko groblje, Žabljak — UNESCO component site; 43.09482° N, 19.14918° E</title></g>
-<g><circle cx="886.18" cy="774.83" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="886.18" y="774.83" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">24</text><title>Bare Žugića, Žabljak — UNESCO component site; 43.10760° N, 19.16812° E</title></g>
-<g><circle cx="811.09" cy="695.70" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="811.09" y="695.70" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">25</text><title>Grčko groblje, Plužine — UNESCO component site; 43.34172° N, 18.85728° E</title></g>
-<g><line x1="949.52" y1="487.47" x2="949.52" y2="481.97" stroke="#5e5548" stroke-width="1.4" opacity=".78"/><rect x="855.5" y="457.0" width="145.2" height="25.0" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1"/><text x="863.5" y="474.0" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600"><tspan x="863.5" dy="0">Mramorje, Perućac</tspan></text><circle cx="949.52" cy="487.47" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="949.52" y="487.47" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">26</text><title>Mramorje, Perućac — UNESCO component site; 43.95778° N, 19.43028° E</title></g>
-<g><circle cx="931.00" cy="491.51" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="931.00" y="491.51" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">27</text><title>Mramorje, Rastište — UNESCO component site; 43.94583° N, 19.35361° E</title></g>
-<g><circle cx="996.43" cy="710.18" r="17" fill="#b74732" stroke="#fffdf8" stroke-width="4"/><text x="996.43" y="710.18" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14" font-weight="700" fill="#fffdf8" pointer-events="none">28</text><title>Grčko groblje, Hrta — UNESCO component site; 43.29889° N, 19.62444° E</title></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1063 1014" role="img" aria-labelledby="title desc">
+<title id="title">UNESCO-listed and additional non-UNESCO stećak sites on a relief map</title>
+<desc id="desc">Red numbered circles 1–28 mark UNESCO component necropolises. Numbered blue circles 29–37 identify selected major non-UNESCO sites; two unnumbered blue circles are approximate locality references. Marker size increases with site-specific recorded counts where available. Sites with unknown counts use a visible minimum. Four crowded markers are nudged from their mapped coordinates with leader lines so circles do not cover neighboring site pins.</desc>
+<g>
+<path d="M 585.63 780.03 L 557.00 775.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="557.00" cy="775.00" r="23.8" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="557.00" y="775.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14.0" font-weight="700" fill="#fffdf8" pointer-events="none">1</text>
+<title>Radimlja, Stolac — UNESCO component site; 43.09221° N, 17.92405° E; published site count: 135. Symbol offset slightly for legibility; guide line points to published UNESCO coordinate.</title>
+</g>
+<g>
+<circle cx="633.37" cy="643.33" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="633.37" y="643.33" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">2</text>
+<title>Grčka glavica, Biskup — UNESCO component site; 43.49667° N, 18.12167° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="651.44" cy="705.34" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="651.44" y="705.34" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">3</text>
+<title>Kalufi, Krekovi — UNESCO component site; 43.31319° N, 18.19647° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="817.65" cy="528.31" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="817.65" y="528.31" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">4</text>
+<title>Borak, Burati — UNESCO component site; 43.83694° N, 18.88446° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="525.46" cy="456.11" r="23.2" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="525.46" y="456.11" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14.0" font-weight="700" fill="#fffdf8" pointer-events="none">5</text>
+<title>Maculje — UNESCO component site; 44.05056° N, 17.67500° E; published site count: 101.</title>
+</g>
+<g>
+<circle cx="493.58" cy="587.03" r="24.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="493.58" y="587.03" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14.0" font-weight="700" fill="#fffdf8" pointer-events="none">6</text>
+<title>Dugo polje, Blidinje — UNESCO component site; 43.66322° N, 17.54306° E; published site count: 150.</title>
+</g>
+<g>
+<circle cx="709.87" cy="622.71" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="709.87" y="622.71" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">7</text>
+<title>Gvozno — UNESCO component site; 43.55767° N, 18.43833° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="716.18" cy="843.45" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="716.18" y="843.45" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">8</text>
+<title>Grebnice, Baljci — UNESCO component site; 42.90458° N, 18.46444° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="505.80" cy="767.55" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="505.80" y="767.55" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">9</text>
+<title>Bijača — UNESCO component site; 43.12914° N, 17.59361° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="760.47" cy="375.93" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="760.47" y="375.93" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">10</text>
+<title>Olovci — UNESCO component site; 44.28778° N, 18.64778° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="729.80" cy="436.96" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="729.80" y="436.96" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">11</text>
+<title>Mramor, Musići — UNESCO component site; 44.10722° N, 18.52083° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="787.45" cy="580.49" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="787.45" y="580.49" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">12</text>
+<title>Kučarin, Hrančići — UNESCO component site; 43.68258° N, 18.75944° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<path d="M 573.74 801.78 L 600.00 812.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="600.00" cy="812.00" r="25.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="600.00" y="812.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="14.0" font-weight="700" fill="#fffdf8" pointer-events="none">13</text>
+<title>Boljuni — UNESCO component site; 43.02788° N, 17.87482° E; published site count: 274. Symbol offset slightly for legibility; guide line points to published UNESCO coordinate.</title>
+</g>
+<g>
+<circle cx="661.24" cy="589.76" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="661.24" y="589.76" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">14</text>
+<title>Dolovi, Umoljani — UNESCO component site; 43.65514° N, 18.23701° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="807.61" cy="487.44" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="807.61" y="487.44" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">15</text>
+<title>Luburića polje — UNESCO component site; 43.95787° N, 18.84290° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="635.13" cy="774.03" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="635.13" y="774.03" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">16</text>
+<title>Potkuk, Bitunja — UNESCO component site; 43.10996° N, 18.12896° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="808.11" cy="362.40" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="808.11" y="362.40" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">17</text>
+<title>Bečani — UNESCO component site; 44.32780° N, 18.84494° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="831.81" cy="679.29" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="831.81" y="679.29" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">18</text>
+<title>Mramor, Vrbica — UNESCO component site; 43.39028° N, 18.94305° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="701.10" cy="668.97" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="701.10" y="668.97" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">19</text>
+<title>Čengića Bara — UNESCO component site; 43.42079° N, 18.40201° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="437.92" cy="519.40" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="437.92" y="519.40" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">20</text>
+<title>Ravanjska vrata — UNESCO component site; 43.86331° N, 17.31266° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="344.80" cy="637.01" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="344.80" y="637.01" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">21</text>
+<title>Velika and Mala Crljivica — UNESCO component site; 43.51536° N, 16.92719° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<circle cx="706.02" cy="966.08" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="706.02" y="966.08" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">22</text>
+<title>St. Barbara, Dubravka — UNESCO component site; 42.54178° N, 18.42238° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<path d="M 881.61 779.15 L 864.00 757.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="864.00" cy="757.00" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="864.00" y="757.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">23</text>
+<title>Grčko groblje, Žabljak — UNESCO component site; 43.09482° N, 19.14918° E; site-specific count not recorded in this map; minimum visible marker used. Symbol offset slightly for legibility; guide line points to published UNESCO coordinate.</title>
+</g>
+<g>
+<path d="M 886.18 774.83 L 903.00 795.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="903.00" cy="795.00" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="903.00" y="795.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">24</text>
+<title>Bare Žugića, Žabljak — UNESCO component site; 43.10760° N, 19.16812° E; site-specific count not recorded in this map; minimum visible marker used. Symbol offset slightly for legibility; guide line points to published UNESCO coordinate.</title>
+</g>
+<g>
+<path d="M 811.09 695.70 L 823.00 726.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="823.00" cy="726.00" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="823.00" y="726.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">25</text>
+<title>Grčko groblje, Plužine — UNESCO component site; 43.34172° N, 18.85728° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g>
+<path d="M 949.52 487.47 L 953.00 467.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="953.00" cy="467.00" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="953.00" y="467.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">26</text>
+<title>Mramorje, Perućac — UNESCO component site; 43.95778° N, 19.43028° E; site-specific count not recorded in this map; minimum visible marker used. Symbol offset slightly for legibility; guide line points to published UNESCO coordinate.</title>
+</g>
+<g>
+<path d="M 931.00 491.51 L 923.00 510.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="923.00" cy="510.00" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="923.00" y="510.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">27</text>
+<title>Mramorje, Rastište — UNESCO component site; 43.94583° N, 19.35361° E; site-specific count not recorded in this map; minimum visible marker used. Symbol offset slightly for legibility; guide line points to published UNESCO coordinate.</title>
+</g>
+<g>
+<circle cx="996.43" cy="710.18" r="14.0" fill="#b74732" stroke="#fffdf8" stroke-width="4" />
+<text x="996.43" y="710.18" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#fffdf8" pointer-events="none">28</text>
+<title>Grčko groblje, Hrta — UNESCO component site; 43.29889° N, 19.62444° E; site-specific count not recorded in this map; minimum visible marker used.</title>
+</g>
+<g class="unesco-name">
+<line x1="575.00" y1="775.00" x2="660.63" y2="780.03" stroke="#5e5548" stroke-width="1.4" opacity=".82" />
+<rect x="660.63" y="767.53" width="132" height="25" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1" />
+<text x="667.63" y="784.53" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600">
+<tspan x="667.63" dy="0">Radimlja, Stolac</tspan>
+</text>
+</g>
+<g class="unesco-name">
+<line x1="541.46" y1="456.11" x2="548.46" y2="456.11" stroke="#5e5548" stroke-width="1.4" opacity=".82" />
+<rect x="548.46" y="443.61" width="78" height="25" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1" />
+<text x="555.46" y="460.61" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600">
+<tspan x="555.46" dy="0">Maculje</tspan>
+</text>
+</g>
+<g class="unesco-name">
+<line x1="509.46" y1="587.03" x2="516.58" y2="587.03" stroke="#5e5548" stroke-width="1.4" opacity=".82" />
+<rect x="516.58" y="574.53" width="128" height="25" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1" />
+<text x="523.58" y="591.53" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600">
+<tspan x="523.58" dy="0">Dugo polje, Blidinje</tspan>
+</text>
+</g>
+<g class="unesco-name">
+<line x1="600.00" y1="812.00" x2="617.00" y2="838.00" stroke="#5e5548" stroke-width="1.4" opacity=".82" />
+<rect x="617.00" y="826.00" width="78" height="25" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1" />
+<text x="624.00" y="843.00" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600">
+<tspan x="624.00" dy="0">Boljuni</tspan>
+</text>
+</g>
+<g class="unesco-name">
+<line x1="967.00" y1="467.00" x2="968.52" y2="487.47" stroke="#5e5548" stroke-width="1.4" opacity=".82" />
+<rect x="968.52" y="467.97" width="90" height="39" rx="4" fill="#fffdf8" fill-opacity=".97" stroke="#786d5c" stroke-width="1" />
+<text x="975.52" y="484.97" fill="#332c25" font-family="system-ui,sans-serif" font-size="13.5" font-weight="600">
+<tspan x="975.52" dy="0">Mramorje,</tspan>
+<tspan x="975.52" dy="15">Perućac</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Zgošća / Crkvina — non-UNESCO site; Approximate locality reference point near Donja Zgošća, Kakanj; count not established by the cited locality source. Approximate map placement from 44.147860° N, 18.135330° E. Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 636.67 423.22 L 636.67 423.22" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="636.67" cy="423.22" r="14.0" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+</g>
+<g class="other-site">
+<title>Kočerin / Lipovci — non-UNESCO site; Approximate Kočerin locality reference point for Lipovci; count not established by the cited locality source. Approximate map placement from 43.390040° N, 17.485840° E. Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 479.76 679.37 L 492.00 725.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="492.00" cy="725.00" r="14.0" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+</g>
+<g class="other-site">
+<title>Delijaš, Trnovo — non-UNESCO site; 243 recorded in 2005; 126 visible in the current mapped field record. Approximate map placement from 43.693092° N, 18.536007° E. Source: https://stecakmap.info/nekropola/delijas/ Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 733.47 576.93 L 760.00 630.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="760.00" cy="630.00" r="25.0" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="760.00" y="630.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">29</text>
+<line x1="760.00" y1="630.00" x2="744.00" y2="607.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="744" y="596" width="122" height="22" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="750" y="611" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="750" dy="0">Delijaš, Trnovo</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Kopošići, Ilijaš — non-UNESCO site; 14. Approximate map placement from 44.003744° N, 18.344668° E. Source: https://stecakmap.info/nekropola/koposici/</title>
+<circle cx="687.25" cy="471.93" r="19.3" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="687.25" y="471.93" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">30</text>
+<line x1="687.25" y1="471.93" x2="706.00" y2="458.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="706" y="447" width="112" height="22" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="712" y="462" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="712" dy="0">Kopošići, Ilijaš</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Gradina — non-UNESCO site; 12 visible. Approximate map placement from 43.786958° N, 18.575010° E. Source: https://stecakmap.info/nekropola/gradina/ Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 742.89 545.21 L 766.00 540.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="766.00" cy="540.00" r="19.0" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="766.00" y="540.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">31</text>
+<line x1="766.00" y1="540.00" x2="790.00" y2="529.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="790" y="518" width="84" height="22" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="796" y="533" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="796" dy="0">Gradina</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Tribistovo III, Posušje — non-UNESCO site; 60 in the cited Archaeological Lexicon entry; many are sunken. Approximate map placement from 43.516916° N, 17.367359° E. Source: https://stecakmap.info/nekropola/tribistovo-iii/ Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 451.14 636.48 L 426.00 602.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="426.00" cy="602.00" r="22.2" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="426.00" y="602.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">32</text>
+<line x1="426.00" y1="602.00" x2="422.00" y2="595.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="294" y="578" width="128" height="34" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="300" y="591" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="300" dy="0">Tribistovo III,</tspan>
+<tspan x="300" dy="13">Posušje</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Grčka gradina, Banja Luka — non-UNESCO site; 63: 46 slabs and 17 chests. Approximate map placement from 44.621151° N, 16.966140° E. Source: https://stecakmap.info/nekropola/grcka-gradina/</title>
+<circle cx="354.21" cy="263.25" r="22.3" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="354.21" y="263.25" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">33</text>
+<line x1="354.21" y1="263.25" x2="375.00" y2="258.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="375" y="241" width="143" height="34" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="381" y="254" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="381" dy="0">Grčka gradina,</tspan>
+<tspan x="381" dy="13">Banja Luka</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Slavić, Posušje — non-UNESCO site; 12. Approximate map placement from 43.536973° N, 17.214915° E. Source: https://stecakmap.info/nekropola/slavic/ Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 414.31 629.70 L 398.00 669.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="398.00" cy="669.00" r="19.0" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="398.00" y="669.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">34</text>
+<line x1="398.00" y1="669.00" x2="394.00" y2="659.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="286" y="648" width="108" height="22" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="292" y="663" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="292" dy="0">Slavić, Posušje</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Dupovci, Posušje — non-UNESCO site; 70 in the Archaeological Lexicon; current count difficult to verify because many are sunken. Approximate map placement from 43.526316° N, 17.432731° E. Source: https://stecakmap.info/nekropola/dupovci/ Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 466.93 633.30 L 540.00 548.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="540.00" cy="548.00" r="22.5" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="540.00" y="548.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">35</text>
+<line x1="540.00" y1="548.00" x2="491.00" y2="623.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="491" y="612" width="118" height="22" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="497" y="627" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="497" dy="0">Dupovci, Posušje</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Ričina, Posušje — non-UNESCO site; 10 in the mapped record; a nearby cemetery inventory is distinct. Approximate map placement from 43.483590° N, 17.300299° E. Source: https://stecakmap.info/nekropola/ricina/ Symbol offset slightly for legibility; guide line points to mapped GPS coordinate.</title>
+<path d="M 434.94 647.75 L 449.00 689.00" stroke="#5e5548" stroke-width="1.5" opacity=".8" />
+<circle cx="449.00" cy="689.00" r="18.6" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="449.00" y="689.00" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="12.0" font-weight="700" fill="#fffdf8" pointer-events="none">36</text>
+<line x1="449.00" y1="689.00" x2="455.00" y2="722.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="455" y="711" width="106" height="22" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="461" y="726" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="461" dy="0">Ričina, Posušje</tspan>
+</text>
+</g>
+<g class="other-site">
+<title>Troskoti, Mostar — non-UNESCO site; 3 recorded at this locality; a moved monument is separately noted. Approximate map placement from 43.333056° N, 17.736944° E. Source: https://stecakmap.info/nekropola/troskoti/</title>
+<circle cx="540.43" cy="698.63" r="16.2" fill="#267b87" stroke="#fffdf8" stroke-width="3.5" />
+<text x="540.43" y="698.63" text-anchor="middle" dominant-baseline="central" font-family="system-ui,sans-serif" font-size="11.7" font-weight="700" fill="#fffdf8" pointer-events="none">37</text>
+<line x1="540.43" y1="698.63" x2="557.00" y2="719.00" stroke="#267b87" stroke-width="1.25" opacity=".8" />
+<rect x="557" y="708" width="111" height="22" rx="4" fill="#fffdf8" fill-opacity=".98" stroke="#267b87" stroke-width="1.1" />
+<text x="563" y="723" fill="#263b3d" font-family="system-ui,sans-serif" font-size="11.5" font-weight="650" pointer-events="none">
+<tspan x="563" dy="0">Troskoti, Mostar</tspan>
+</text>
+</g>
 </svg>
