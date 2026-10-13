@@ -1,8 +1,8 @@
 {
   "id": "stone-sleeper",
   "name": "Stone Sleeper",
-  "version": "0.1.0",
-  "description": "Explore documented stećci and compose a source-aware 2D stone design with historically grounded motifs.",
+  "version": "0.2.0",
+  "description": "Explore documented stećci and create 2D or 3D stone designs with historically grounded motifs.",
   "entry": "index.jsx",
   "icon": "icon.png",
   "offline_capable": false,
@@ -26,7 +26,7 @@
   },
   "store": {
     "tagline": "Explore real stećci, read inscriptions and design a stone of your own.",
-    "description": "A source-linked introduction to medieval stećci: explore their regional distribution, real photographs, necropolis records, and historically cautious notes on belief, motifs and stoneworking. The Kočerinska entry pairs the real inscribed stone with a Latin-script transcription, modern-language renderings and translations. In the design studio, compose a 2D stećak from scalable, AI-assisted interpretive motif drawings, write and place an inscription, choose artificial ageing, and download your named design as SVG. Upload or draw motifs; simple image cutout is local threshold-based processing, not AI recognition. Optional community submissions are visible to users of this Möbius instance. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
+    "description": "A source-linked introduction to medieval stećci: explore their regional distribution, real photographs, necropolis records, and historically cautious notes on belief, motifs and stoneworking. The Kočerinska entry pairs the real inscribed stone with a Latin-script transcription, modern-language renderings and translations. In the design studio, compose a 2D keepsake or orbitable 3D stećak with motifs, inscriptions and digital ageing. Experimental relief tools can turn face artwork into raised or recessed STL surfaces. Upload or draw motifs; simple image cutout is local threshold-based processing, not AI recognition. Optional community submissions are visible to users of this Möbius instance. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
     "screenshots": [
       {
         "src": "static/store/stone-sleeper-intro.png",
