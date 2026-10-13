@@ -2,7 +2,13 @@
 
 Explore medieval **stećci** through a source-led guide, then make a design of your own. Stone Sleeper includes a five-step 2D design activity and a 3D carving mode. Historical claims link to institutional or scholarly sources; custom motif drawings are interpretive studies, not archaeological reproductions.
 
-![Stone Sleeper introduction with historical context, credited photographs, and links to the examples and design studio.](static/store/stone-sleeper-intro.png)
+![Stone Sleeper introduction with overview text and a photograph of a carved stećak at Radimlja.](screenshots/stone-sleeper-overview.png)
+
+The monument photograph shown above is “Stecakradimlja2.jpg” by АРК9367, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ([Wikimedia Commons source](https://commons.wikimedia.org/wiki/File:Stecakradimlja2.jpg)).
+
+![Stone Sleeper's 2D design editor with a stećak composition, motifs, and inscription.](screenshots/stone-sleeper-designer.png)
+
+The design activity is a creative interpretation, not a historically authentic reconstruction. Motif drawings are studies rather than facsimiles.
 
 ## Explore and create
 
@@ -23,4 +29,4 @@ Find **Stone Sleeper** in the Möbius App Store, or install it from its public m
 
 ## Attribution and method
 
-Photograph credits and licenses are shown with the images and in the app's **Sources & method** section. AI-assisted explanatory writing and illustrations are labeled in the app. Motifs are visual interpretations, not facsimiles or exact reconstructions; the app is an educational introduction, not a scholarly text edition.
+Photograph credits and licenses are shown with the images and in the app's **Sources & method** section. AI-assisted explanatory writing and illustrations are labeled in the app. The example epitaph excerpt is cited to Marko Vego's epigraphic collection and related scholarly bibliography; it is not presented as a diplomatic transcription. The app is an educational introduction, not a scholarly text edition.
