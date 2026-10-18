@@ -26,7 +26,7 @@
   },
   "store": {
     "tagline": "Explore real stećci, read inscriptions and design a stone of your own.",
-    "description": "A source-linked introduction to medieval stećci: explore regional distribution, credited photographs, necropolis records, and historically cautious notes on belief, motifs, inscriptions and stoneworking. In the design studio, compose a 2D keepsake, an orbitable 3D design, or a voxel-carved stone. The voxel carver offers 10 × 10 × 10 cm and 30 × 30 × 5 cm stones with 1 cm voxels, plus hand and motif cuts, surface painting, Latin block-letter inscriptions, and STL export. Digital ageing remains available in the 2D designer. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
+    "description": "A source-linked introduction to medieval stećci: explore regional distribution, credited photographs, necropolis records, and historically cautious notes on belief, motifs, inscriptions and stoneworking. In the design studio, compose a 2D keepsake, an orbitable 3D design, or a voxel-carved stone. The voxel carver offers 10 × 10 × 10 cm and 30 × 30 × 5 cm stones with 1 cm voxels, plus hand and motif cuts, surface painting, Latin block-letter inscriptions, and STL export. Digital ageing remains available in the 2D designer. Motif submissions shared with the community require explicit consent and are visible to users of this Möbius instance. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
     "screenshots": [
       {
         "src": "static/store/stone-sleeper-intro.png",
