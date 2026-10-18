@@ -26,7 +26,7 @@
   },
   "store": {
     "tagline": "Explore real stećci, read inscriptions and design a stone of your own.",
-    "description": "A source-linked introduction to medieval stećci: explore regional distribution, credited photographs, necropolis records, and historically cautious notes on belief, motifs, inscriptions and stoneworking. In the design studio, compose a 2D keepsake, an orbitable 3D design, or a voxel-carved stone. The voxel carver supports 1 cm hand and motif cuts, surface painting, Latin block-letter inscriptions, and STL export. An experimental 100 × 100 × 10 cm test stone is available by opt-in; editing this larger model may be slower on some devices. Digital ageing remains available in the 2D designer. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
+    "description": "A source-linked introduction to medieval stećci: explore regional distribution, credited photographs, necropolis records, and historically cautious notes on belief, motifs, inscriptions and stoneworking. In the design studio, compose a 2D keepsake, an orbitable 3D design, or a voxel-carved stone. The voxel carver supports 1 cm hand and motif cuts, surface painting, Latin block-letter inscriptions, and STL export. The voxel carver offers 10 × 10 × 10 cm and 30 × 30 × 5 cm stones with 1 cm voxels. Digital ageing remains available in the 2D designer. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
     "screenshots": [
       {
         "src": "static/store/stone-sleeper-intro.png",
