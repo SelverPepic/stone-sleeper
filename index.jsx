@@ -604,8 +604,8 @@ function VoxelDesigner({customMotifs=[]}) {
      const validColor=entry=>Array.isArray(entry)&&entry.length===2&&/^\d+\|(front|back|left|right|top|bottom)$/.test(entry[0])&&Number(entry[0].split('|')[0])<oldTotal&&/^#[0-9a-f]{6}$/i.test(entry[1])
      if(!project.surfaceColors.every(validColor))throw new Error('The 1 mm project contains invalid surface colors.')
      const source={bits,removedCount:project.removedCount,surfaceColors:project.surfaceColors},returnProfileId=profileId==='long'?null:profileId
-     if(returnProfileId)switchProfile('long')
      const preview=convertLegacyVoxelProject(source,'majority')
+     if(returnProfileId)switchProfile('long')
      setPendingConversion({...preview,source,fileName:file.name,returnProfileId});setHoverHit(null)
      setNotice('Previewing a 1 mm to 1 cm conversion. Your current model and original file are unchanged.')
      return
