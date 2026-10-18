@@ -15,7 +15,7 @@ The monument photograph shown above is “Stecakradimlja2.jpg” by АРК9367, 
 - Compose a 2D stone design with motifs, an inscription, and ageing effects; the app also offers a 3D carving mode.
 - Find citations, image credits, and notes on method in the **Sources & method** section of the app.
 
-![Regional map of UNESCO-listed stećak necropolises and selected additional sites.](maps/stecci-region.svg)
+![Screenshot of Stone Sleeper’s in-app regional map, combining shaded relief with numbered UNESCO and selected additional sites.](maps/stecci-region-app.png)
 
 The map marks 28 UNESCO component sites and selected other locations; it is not an exhaustive inventory or a current census. Relief-map background by DzWiki and NordNordWest, adapted with site markers, **CC BY-SA 3.0** ([source and license](https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_relief_location_map.svg)). UNESCO coordinates: [UNESCO map](https://whc.unesco.org/en/list/1504/maps/); additional site records: [Stećak.map](https://stecakmap.info/).
 
