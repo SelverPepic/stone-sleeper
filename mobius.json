@@ -1,8 +1,8 @@
 {
   "id": "stone-sleeper",
   "name": "Stone Sleeper",
-  "version": "0.2.0",
-  "description": "Explore documented stećci and create 2D or 3D stone designs with historically grounded motifs.",
+  "version": "0.3.0",
+  "description": "Explore documented stećci and create 2D designs, orbitable 3D forms, or voxel-carved stone models.",
   "entry": "index.jsx",
   "icon": "icon.png",
   "offline_capable": false,
@@ -26,12 +26,17 @@
   },
   "store": {
     "tagline": "Explore real stećci, read inscriptions and design a stone of your own.",
-    "description": "A source-linked introduction to medieval stećci: explore their regional distribution, real photographs, necropolis records, and historically cautious notes on belief, motifs and stoneworking. The Kočerinska entry pairs the real inscribed stone with a Latin-script transcription, modern-language renderings and translations. In the design studio, compose a 2D keepsake or orbitable 3D stećak with motifs, inscriptions and digital ageing. Experimental relief tools can turn face artwork into raised or recessed STL surfaces. Upload or draw motifs; simple image cutout is local threshold-based processing, not AI recognition. Optional community submissions are visible to users of this Möbius instance. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
+    "description": "A source-linked introduction to medieval stećci: explore regional distribution, credited photographs, necropolis records, and historically cautious notes on belief, motifs, inscriptions and stoneworking. In the design studio, compose a 2D keepsake, an orbitable 3D design, or a voxel-carved stone. The voxel carver offers 10 × 10 × 10 cm and 30 × 30 × 5 cm stones with 1 cm voxels, plus hand and motif cuts, surface painting, Latin block-letter inscriptions, and STL export. Digital ageing remains available in the 2D designer. Motif submissions shared with the community require explicit consent and are visible to users of this Möbius instance. This is an educational creative tool, not a scholarly text edition or archaeological reconstruction.",
     "screenshots": [
       {
         "src": "static/store/stone-sleeper-intro.png",
-        "alt": "Introduction screen with overview and credited photographs of the Zgošća stećak, Dugo Polje at Blidinje and Radimlja.",
-        "label": "Explore the stones"
+        "alt": "Introduction to stećci with a photograph of a carved medieval stone monument.",
+        "label": "About stećci"
+      },
+      {
+        "src": "static/store/stone-sleeper-2d-designer.png",
+        "alt": "The 2D stone designer with motif and inscription editing tools.",
+        "label": "2D stone designer"
       }
     ]
   }
