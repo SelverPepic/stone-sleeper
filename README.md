@@ -8,8 +8,6 @@ The monument photograph shown above is “Stecakradimlja2.jpg” by АРК9367, 
 
 ![Stone Sleeper's 2D design editor with a stećak composition, motifs, and inscription.](screenshots/stone-sleeper-designer.png)
 
-The design activity is a creative interpretation, not a historically authentic reconstruction. Motif drawings are studies rather than facsimiles.
-
 ## Explore and create
 
 - Read about the stećak tradition and browse documented monuments, inscriptions, and sites.
@@ -29,4 +27,4 @@ Find **Stone Sleeper** in the Möbius App Store, or install it from its public m
 
 ## Attribution and method
 
-Photograph credits and licenses are shown with the images and in the app's **Sources & method** section. AI-assisted explanatory writing and illustrations are labeled in the app. The example epitaph excerpt is cited to Marko Vego's epigraphic collection and related scholarly bibliography; it is not presented as a diplomatic transcription. The app is an educational introduction, not a scholarly text edition.
+Photograph credits and licenses are shown with the images and in the app's **Sources & method** section. AI-assisted explanatory writing and illustrations are labeled in the app. The app is an educational introduction, not a scholarly text edition.
