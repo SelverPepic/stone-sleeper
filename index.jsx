@@ -184,7 +184,7 @@ const STORE_MOTIFS = [
   { id:'t-bar-border', name:'Repeated T-bar border', kind:'Geometric border · plate-based interpretation', icon:'⊤', note:'A series of T-shaped units beneath a hatched edge, adapted from the decorative-relief plate; the label describes form, not meaning.' },
   { id:'linked-wheels', name:'Linked wheel border', kind:'Astral / geometric border · plate-based interpretation', icon:'◎', note:'Small radial wheels joined by a horizontal band, based on the plate’s repeated circular ornament.' },
 ]
-const OLD_MOTIFS = STORE_MOTIFS.filter(m => m.id !== 'horse').map(m => ({...m, name:m.id==='radimlja-figure-extract'?'Radimlja · raised-hand figure':m.id==='winged-horse'?'Unidentified winged creature':m.name, id:`old-${m.id}`, kind:`Store v0.3.0 · ${m.kind}`}))
+const OLD_MOTIFS = STORE_MOTIFS.filter(m => m.id !== 'horse').map(m => ({...m, name:m.id==='radimlja-figure-extract'?'Radimlja · raised-hand figure':m.id==='winged-horse'?'Unidentified winged creature':m.name, id:`old-${m.id}`}))
 
 const motifCategory = id => {
  id=id.replace(/^old-/,'')
