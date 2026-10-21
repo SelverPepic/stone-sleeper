@@ -21,7 +21,7 @@ The map marks 28 UNESCO component sites and selected other locations; it is not 
 
 ## Install
 
-Launch Stone Sleeper on the hosted Möbius instance: [Open the app](https://mobius-production-7e17.up.railway.app/stone-sleeper/).
+Launch Stone Sleeper: [Open the app](https://mobius-production-7e17.up.railway.app/stone-sleeper/).
 
 Find **Stone Sleeper** in the Möbius App Store, or install it from its public manifest:
 
