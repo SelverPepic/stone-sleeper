@@ -334,7 +334,7 @@ const CSS = `
  @media(max-width:560px){.ss-transcription-pair{grid-template-columns:1fr}}
 
 `
-function Ref({id, children}) { const s=SOURCES.find(x=>x.id===id); return <a href={s?.url} target="_blank" rel="noreferrer">{children||'Source'}</a> }
+function Ref({id, children}) { const s=SOURCES.find(x=>x.id===id); return s ? <a href={s.url} target="_blank" rel="noreferrer">{children||'Source'}</a> : null }
 function MotifSvg({id,x=100,y=100,size=56,width=size,height=size,rotate=0,mirrorX=false,mirrorY=false,color='#6b4738',customMotifs=[],preview=false}) {
   const uploaded=customMotifs.find(m=>m.id===id)
   const baseId=id.startsWith('old-')?id.slice(4):id
