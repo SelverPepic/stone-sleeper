@@ -8,6 +8,8 @@ The monument photograph shown above is “Stecakradimlja2.jpg” by АРК9367, 
 
 ![Stone Sleeper's 2D design editor with a stećak composition, motifs, and inscription.](screenshots/stone-sleeper-designer.png)
 
+![A finished Stone Sleeper stećak design with winged horses, a fleur-de-lis, dancers, and an inscription.](screenshots/stone-sleeper-steckak-design.png)
+
 ## Explore and create
 
 - Read about the stećak tradition and browse documented monuments, inscriptions, and sites.
